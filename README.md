@@ -9,7 +9,7 @@ The aim of this project is to study the relationship of various factors with the
 
 **Цель проекта:** понять, какие социальные характеристики и ценностные ориентации связаны с тем, сколько времени человек проводит в интернете в обычный день.
 
-Анализ выполнен в ноутбуке [`digital_social_contacts.ipynb`](digital_social_contacts.ipynb).
+Анализ выполнен в ноутбуке [`internet_use_czechia.ipynb`](internet_use_czechia.ipynb).
 
 ## Данные
 
