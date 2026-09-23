@@ -58,7 +58,7 @@ An analysis of **European Social Survey Round 10** (ESS10, edition 3.3) data for
 
 **Aim:** to examine which social characteristics and value orientations are associated with how much time a person spends on the Internet on a typical day.
 
-The analysis is in [`digital_social_contacts.ipynb`](digital_social_contacts.ipynb).
+The analysis is in [`internet_use_czechia.ipynb`](internet_use_czechia.ipynb).
 
 ## Data
 
