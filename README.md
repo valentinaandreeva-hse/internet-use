@@ -98,3 +98,7 @@ Approximate magnitudes, holding other predictors constant, on the log scale: eac
 ## Main libraries used
 
 `pandas`, `numpy`, `matplotlib`, `seaborn`, `pingouin`, `factor_analyzer`, `scikit-learn`, `statsmodels`, `scipy`
+
+---
+
+The data used for this analysis were provided by ESS. The ESS project and its distributors assume no responsibility for the analysis and interpretation of the data presented in this publication.
