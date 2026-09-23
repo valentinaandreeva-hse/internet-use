@@ -41,7 +41,7 @@ The aim of this project is to study the relationship of various factors with the
 
 | Файл | Описание |
 | --- | --- |
-| `digital_social_contacts.ipynb` | основной анализ |
+| `internet_use_czechia.ipynb` | основной анализ |
 | `factor_loadings_varimax.csv` | факторные нагрузки |
 | `communalities.csv` | общности |
 | `factor_scores.csv` | факторные оценки |
@@ -90,7 +90,7 @@ Approximate magnitudes, holding other predictors constant, on the log scale: eac
 
 | File | Description |
 | --- | --- |
-| `digital_social_contacts.ipynb` | main analysis |
+| `internet_use_czechia.ipynb` | main analysis |
 | `factor_loadings_varimax.csv` | factor loadings |
 | `communalities.csv` | communalities |
 | `factor_scores.csv` | factor scores |
